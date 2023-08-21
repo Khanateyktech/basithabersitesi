@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <header>
+        <img src="logo.png" alt="Haber Sitesi Logo">
+        <h1>Hoşgeldiniz.</h1>
+        <nav>
+            <!-- ... Diğer menü bağlantıları ... -->
+        </nav>
+    </header>
+    <title>BasitHaberSitesi</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="basithabersitesi.css">
+    <script defer src="basithabersitesi.js"></script>
+    <title>BasitHaberSitesi</title>
+</head>
+<body>
+    <header>
+        <h1>SON HABERLER:Sanatçı Mustafa Yıldızdoğan tarafından, MHP'nin yerel seçimlerde kullanması amacıyla bestelenen şarkı, MHP Lideri Devlet Bahçeli'ye teslim edildi.</p></h1>
+        <!-- ... Diğer kodlar ... -->
+
+<main>
+    <section id="kategoriler">
+        <button class="kategori-btn" data-kategori="dunya">Dünya</button>
+        <button class="kategori-btn" data-kategori="spor">Spor</button>
+        <button class="kategori-btn" data-kategori="teknoloji">Teknoloji</button>
+        <!-- ... Diğer kodlar ... -->
+
+<main>
+    <section id="kategoriler">
+        <!-- ... Kategori düğmeleri ... -->
+    </section>
+
+    <section id="haberler">
+        <!-- Haberler burada listelenecek -->
+    </section>
+
+    
+        </div>
+    </section>
+</main>
+
+<!-- ... Diğer kodlar ... -->
+
+    </section>
+
+    <section id="haberler"> MHP'nin yerel seçim şarkısı belli oldu.<br>Cevdet Yılmaz:Önümüzdeki 5 yıllık süreç yüksek gelir ligine çıkacağımız bir süreç olacak.<br>Discord'da veri ihlali<br>NATO: Ukrayna'nın toprak bütünlüğüne destek konusunda duruşumuz değişmedi.
+        <!-- Haberler burada listelenecek -->
+      
+    </section>
+</main>
+<!-- ... Diğer kodlar ... -->
+
+<main>
+    <section id="kategoriler">
+        <!-- ... Kategori düğmeleri ... -->
+    </section>
+
+    <section id="haberler">
+        <!-- Haberler burada listelenecek -->
+    </section>
+</main>
+
+<!-- ... Diğer kodlar ... -->
+
+
+<!-- ... Diğer kodlar ... -->
+
+    </header>
+
+    <main>
+        <article>
+            <img src="haber1.webp" alt="Haber Resmi">
+            <h2 id="haber-baslik">MHP'nin yerel seçim şarkısı belli oldu.</h2>
+            <p id="haber-icerik">Sanatçı Mustafa Yıldızdoğan tarafından, MHP'nin yerel seçimlerde kullanması amacıyla bestelenen, "Bu Diyarda"  MHP Lideri Devlet Bahçeli'ye teslim edildi.Yıldızdoğan, Instagram hesabından yaptığı paylaşımda, "Genel Başkanımız Devlet Bahçeli Bey'in istekleri doğrultusunda '2024'e Doğru Diyar Diyar Anadolu' seçim şarkımız 'Bu Diyarda'yı teslim ettim. Rabbim utandırmasın." ifadelerini kullandı.Mecnun Leyla'sını arar, Aslı saçlarını tarar<br>Beni bir titreme sarar, bu diyarda bu diyarda<br>Bu diyara bu diyara canım feda bu diyara<br>Bu diyara bu diyara canım kurban bu diyara<br>Sevda yakar saza gelir, kuzu meler söze gelir<br> Dağlar bile dize gelir, bu diyarda bu diyarda<br>Dağlar bile dize gelir, bu diyarda bu diyarda<br>Bu diyara bu diyara, canım feda bu diyara<br> Bu diyara bu diyara, canım kurban bu diyara<br>Suyun akışı başkadır, gülün kokuşu başkadır<br>Kurdun bakışı başkadır, bu diyarda bu diyarda<br>Kurdun bakışı başkadır, bu diyarda bu diyarda<br>Bu diyara bu diyara canım feda bu diyara."</p>
+            <a href="#" id="devam-oku">Devamını Oku</a>
+        </article> 
+        <article>
+            <img src="haber2.webp" alt="Haber Resmi">
+            <h2 id="haber-baslik">Cevdet Yılmaz:Önümüzdeki 5 yıllık süreç yüksek gelir ligine çıkacağımız bir süreç olacak.</h2>
+            <p id="haber-icerik">Yılmaz, AK Parti Gaziantep İl Başkanlığı'nı ziyaret ederek, partililerle yaptığı buluşmada, Kahramanmaraş merkezli 6 Şubat'taki depremlerin etkilediği Nurdağı ve İslahiye ilçesindeki çalışmaları incelediğini söyledi.
+
+                Yılmaz, Gaziantep'in özel, girişimci, cazibe merkezi, birliği, beraberliği, kardeşliği ve tarihi değerleriyle örnek il olduğunu ifade eti.
+                
+                Çok önemli bir dönemden geçildiğini aktaran Yılmaz, Suriye'deki iç savaş, Ukrayna-Rusya savaşı ve Kahramanmaraş merkezli depremlerin meydana geldiği zorlu bir sürecin yaşandığını anımsattı. Yılmaz, şöyle konuştu:<br>"Bütün bu zorluklara rağmen Türkiye çok şükür istikrar adası gibi istikrarını, güvenini devam ettiriyor, yoluna devam ediyor. Bunda tabi AK Parti'nin ve kurucu liderimiz Recep Tayyip Erdoğan'ın çok büyük emeği ve imzası var. Son zamanlarda da elbette Cumhur İttifakı ile oluşturduğumuz siyasi, güven, istikrar ikliminin de etkisi var. Bu kadar olumsuzluğun dünyada, bölgemizde yaşandığı bir dönemde bir de Türkiye'de liderlik, siyasi iktidar eksikliği olsaydı şu anda nasıl bir durumda olurduk takdire bırakıyorum. Tabi sorunlarımız var, sıkıntılar yaşıyoruz ama bunların hiçbiri aşılamayacak, üstesinden gelinemeyecek sorunlar değil yeter ki doğru bildiğimiz politikaları uygulamaya devam edelim. Biz de bunu yapmaya çalışıyoruz."</p>
+            <a href="#" id="devam-oku">Devamını Oku</a>
+        </article> 
+        <article>
+            <img src="haber3.webp" alt="Haber Resmi">
+            <h2 id="haber-baslik">Discord'da veri ihlali: 760 bin kullanıcının bilgileri çalındı</h2>
+            <p id="haber-icerik">Kullanıcıların Discord kanalları için özel bağlantılar oluşturmalarına olanak tanıyan bir hizmet olan Discord.io, büyük bir veri ihlalinin ardından kapanıyor.<br>
+                TechRadar'a göre bir bilgisayar korsanı 760 bin kullanıcının verilerini çaldı ve potansiyel olarak satmak için Breached Forums'da bir örnek yayınladı.<br>Discord.io sitesi şu anda "Discord.io bir veri ihlali yaşadı. Tüm işlemleri durduruyoruz" şeklinde bir mesaj yayınlayarak siteyi kullanıma kapattığını duyurdu.</p>
+            
+                <img src="haber4.jpg" alt="Haber Resmi">
+                <h2 id="haber-baslik">NATO: Ukrayna'nın toprak bütünlüğüne destek konusunda duruşumuz değişmedi</h2>
+                <p id="haber-icerik">NATO'dan bir yetkili, NATO Genel Sekreteri Kabine Direktörü Stian Jenssen'in Norveç basınında yer alan "Ukrayna'nın topraklarının bir bölümünü Rusya'ya vermesi karşılığında NATO üyesi olabileceği" ifadelerini AA muhabirine değerlendirdi.
+                    "NATO'nun konumu net ve değişmedi. NATO liderlerinin temmuzdaki Vilnius zirvesinde yineledikleri gibi, Ukrayna'nın egemenliğini ve toprak bütünlüğünü tamamen destekliyoruz." ifadelerini kullanan yetkili, şöyle devam etti:
+
+"Ukrayna'yı ne kadar sürerse sürsün desteklemeye devam edeceğiz. Adil ve kalıcı bir barış sağlamaya kararlıyız. Barışın ne zaman ve hangi şartlarda sağlanacağına Ukrayna karar verecek."
+
+Yetkili, "Savaşın tekrarlanmamasını sağlamak için güvenlik düzenlemelerine ihtiyaç olduğu açık." değerlendirmesinde bulundu.
+                </p>
+               
+            <a href="#" id="devam-oku">Devamını Oku</a>
+        </article> 
+    </main>
+
+    <footer>
+        <p>&copy; 2023-BasitHaberSitesi</p>
+        <!-- ... Diğer kodlar ... -->
+
+<footer>
+    <div class="social-media">
+       <img src="youtube_480px.png"> <a href="https://www.youtube.com/@/" class="social-icon"><img src="youtube.png" alt="Youtube"></a>
+       <img src="twitter_480px.png"><a href="https://www.twitter.com//" class="social-icon"><img src="twitter.png" alt="Twitter"></a>
+    </div>
+  </footer>
+  <p><a href="iletisihabersitesi.html">İletişim</a></p>
+</body>
+</html>
