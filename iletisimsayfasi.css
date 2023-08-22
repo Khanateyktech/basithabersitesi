@@ -1,0 +1,89 @@
+/* Genel Stil */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+/* İletişim Formu */
+#iletisim-formu {
+    margin: 2em;
+    padding: 2em;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+form input,
+form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+}
+
+form button {
+    background-color: #333;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+/* Sosyal Medya */
+#sosyal-medya {
+    margin: 2em;
+    text-align: center;
+}
+
+#sosyal-medya h2 {
+    margin-bottom: 10px;
+}
+
+#sosyal-medya ul {
+    list-style: none;
+    padding: 0;
+}
+
+#sosyal-medya ul li {
+    margin-bottom: 10px;
+}
+
+#sosyal-medya ul li a {
+    color: #333;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+#sosyal-medya ul li a:hover {
+    color: #f39c12;
+}
+/* Diğer stiller ... */
+
+/* Footer Stili */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.footer-text {
+    margin: 0;
+}
