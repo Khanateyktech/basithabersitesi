@@ -1,0 +1,68 @@
+/* Genel Stil */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header */
+header {
+    background-color: #333;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+/* Haber Makalesi */
+main {
+    padding: 2em;
+}
+
+article {
+    border: 1px solid #ddd;
+    padding: 1em;
+}
+
+article img {
+    max-width: 100%;
+}
+
+article h2 {
+    margin-top: 0;
+}
+
+article p {
+    margin: 10px 0;
+}
+
+article a {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+
+/* Footer */
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+/* ... Diğer stiller ... */
+
+.social-media {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.social-icon {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.social-icon img {
+    width: 30px;
+    height: 30px;
+}
